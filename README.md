@@ -26,6 +26,10 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 ## 데이터 구조
 ![image](https://user-images.githubusercontent.com/42150335/149441163-7728a543-5dbd-4fb6-b12f-cae5fc79c6fe.png)
 
+## 하루 일과
+- 아침 10:00 오전 회의
+- 점심 12:00 점심시간
+
 ## 참고 자료 아카이브
 - [불균형 텍스트 데이터 참고 사이트](https://d2.naver.com/helloworld/7753273)
 - [Github 사용 참고 자료](https://github.com/sda96/AIFFEL_3rd_hackerton_TUNiB_DKTC/blob/main/reference/git_ref.md)
