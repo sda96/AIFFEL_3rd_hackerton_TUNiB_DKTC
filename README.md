@@ -29,4 +29,4 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 ## 참고 자료 아카이브
 - [불균형 텍스트 데이터 참고 사이트](https://d2.naver.com/helloworld/7753273)
 - [Github 사용 참고 자료](https://github.com/sda96/AIFFEL_3rd_hackerton_TUNiB_DKTC/blob/main/reference/git_ref.md)
-- [Github 협업 프로젝트 과정 참고 사이트](https://github.com/sda96/AIFFEL_3rd_hackerton_TUNiB_DKTC/blob/main/reference/git_ref.md)
+- [Github 협업 프로젝트 과정 참고 사이트](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/)
