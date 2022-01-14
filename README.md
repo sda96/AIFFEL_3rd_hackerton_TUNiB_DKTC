@@ -17,6 +17,12 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 |기타 괴롭힘 |03|1,094      |100|
 |일반 |04| - |100|
 
+## 과제에 사용되는 도구
+- 회의 내용 녹화 방법 : 윈도우키 + G, 클로바노트(음성녹음 + 녹음내용 필기)
+- 프로젝트 협업툴 : Github
+- 프로그래밍 언어 : 파이썬 3.x
+- 딥러닝 프레임워크 : 텐서플로우 2.x
+
 ## 데이터 구조
 ![image](https://user-images.githubusercontent.com/42150335/149441163-7728a543-5dbd-4fb6-b12f-cae5fc79c6fe.png)
 
