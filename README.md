@@ -1,5 +1,5 @@
 # AIFFEL_3rd_hackerton_TUNiB_DKTC
-
+## [참고 자료, 회의록 아카이브](https://www.notion.so/AIFFEL-3-TUNiB-de4ca87a991c4f12bd2a0c0858c5103a)
 ## 과제 설명 및 목표
 AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of Korean Threatening Converstations)
 훈련 데이터의 클래스는 '협박', '갈취', '직장 내 괴롭힘', '기타 괴롭힘' 4가지 클래스로 이루어져 있고 테스트 데이터의 클래스는 '일반' 클래스가 추가된 5가지 클래스입니다.
@@ -30,5 +30,3 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 ## 하루 일과
 - 아침 10:00 오전 회의
 - 점심 12:00 점심시간
-
-## [참고 자료, 회의록 아카이브](https://www.notion.so/AIFFEL-3-TUNiB-de4ca87a991c4f12bd2a0c0858c5103a)
