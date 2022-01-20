@@ -1,4 +1,4 @@
-# AIFFEL_3rd_hackerton_TUNiB_DKTC
+# AIFFEL_3rd_hackerton_TUNiB_DKTC - [TUNiB 공식 Repo](https://github.com/tunib-ai/DKTC)
 ## 과제 설명 및 목표
 AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of Korean Threatening Converstations)
 훈련 데이터의 클래스는 '협박', '갈취', '직장 내 괴롭힘', '기타 괴롭힘' 4가지 클래스로 이루어져 있고 테스트 데이터의 클래스는 '일반' 클래스가 추가된 5가지 클래스입니다.
