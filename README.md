@@ -21,7 +21,7 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 ![image](https://user-images.githubusercontent.com/42150335/149441163-7728a543-5dbd-4fb6-b12f-cae5fc79c6fe.png)
 
 ## 프로젝트 진행 과정
-![image](https://user-images.githubusercontent.com/51338268/150052687-b605b754-672e-42c2-af59-04e1b0b0df76.png)
+![image](https://user-images.githubusercontent.com/51338268/150277973-96b1e4b7-d235-420e-b559-7fee01e9dacf.png)
 
 ## 과제에 사용되는 도구
 - 화상 회의 플랫폼 : 구글미트
