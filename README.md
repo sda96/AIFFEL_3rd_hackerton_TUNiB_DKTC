@@ -31,7 +31,7 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 - 프로그래밍 언어 : 파이썬 3.x
 - 딥러닝 프레임워크 : 텐서플로우 2.x, 파이토치
 
-## [참고 자료 회의록 아카이브](https://www.notion.so/AIFFEL-3-TUNiB-de4ca87a991c4f12bd2a0c0858c5103a)
+## [참고 자료 회의록 아카이브](https://www.notion.so/modulabs/X-AI-6bac1355f3ae449eb339ce870a488675)
 
 - 박창현
     - 불균형 데이터
