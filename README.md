@@ -6,7 +6,7 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 일반 대화 클래스의 경우 [AI hub](https://aihub.or.kr/aihub-data/natural-language/about) 데이터를 활용해야 하며 사용되기 좋다고 생각되는 데이터셋은 다음과 같습니다.  
 (일반 대화 클래스는 추천일 뿐 더 좋은게 있으면 사용하고 바꿀 수 도 있습니다.)
 - [한국어 대화](https://aihub.or.kr/aidata/85)
-- [소상공인 질의응답 텍스트](https://aihub.or.kr/aidata/30760)
+- [감성 대화 말뭉치](https://aihub.or.kr/aidata/7978)
 - [한국어 SNS](https://aihub.or.kr/aidata/30718)
 
 |클래스|Class No.|# Training|# Test |
