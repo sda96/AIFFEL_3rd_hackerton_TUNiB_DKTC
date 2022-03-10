@@ -38,8 +38,8 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 |일반 대화 : 한국어 대화 데이터 4000개 </br> 모델 : Soft voting 앙상블(klue/bert-base, skt/kogpt2, LSTM) </br> epoch : 1|0.673|
 |일반 대화 : 무작위 SNS 데이터 4000개 + 한국어 대화 데이터 4000개 </br> 모델 : klue/bert-base(단일 모델) </br> epoch : 1|0.821|
 |일반 대화 : 무작위 SNS 데이터 4000개 + 한국어 대화 데이터 4000개 </br> 모델 : klue/bert-base(단일 모델) </br> epoch : 3 </br> lr_scheduler : 0.5|0.829|
-|일반대화 : 무작위 SNS 5000개, 한국어 대화 5000개, 감성 말뭉치 5000개, BERT오분류 SNS데이터 350개 </br> 모델 : klue/bert-base(단일 모델) </br> epoch : 5 </br> lr_schduler : 0.2|0.865|
-|일반대화 : 무작위 SNS 5000개, 한국어 대화 5000개, 감성 말뭉치 5000개, BERT오분류 SNS데이터 350개, 역번역 데이터(영어, 중국어, 일본어) </br> 모델 : 일반대화 데이터로 사전학습시킨 klue/bert-base (TAPT 적용) </br> epoch : 4 </br> lr_schduler : 0.2|0.875|
+|일반대화 : 무작위 SNS 5000개, 한국어 대화 5000개, 감성 말뭉치 5000개, 오분류 SNS데이터 350개 </br> 모델 : klue/bert-base(단일 모델) </br> epoch : 5 </br> lr_schduler : 0.2|0.865|
+|일반대화 : 무작위 SNS 5000개, 한국어 대화 5000개, 감성 말뭉치 5000개, 오분류 SNS데이터 350개, 역번역 데이터(영어, 중국어, 일본어) </br> 모델 : 일반대화 데이터로 사전학습시킨 klue/bert-base (TAPT 적용) </br> epoch : 4 </br> lr_schduler : 0.2|0.875|
 |일반대화 : 무작위 SNS 5000개, 한국어 대화 5000개, 감성 말뭉치 5000개, BERT오분류 SNS데이터 350개 </br> 모델 : 일반대화 데이터로 사전학습시킨 klue/bert-base (TAPT 적용) </br> epoch : 2 </br> lr_schduler : 0.2|0.882|
 
 ## [참고 자료 회의록 아카이브](https://www.notion.so/modulabs/X-AI-6bac1355f3ae449eb339ce870a488675)
