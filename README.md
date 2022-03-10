@@ -26,6 +26,9 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 ## 데이터 구조
 ![image](https://user-images.githubusercontent.com/42150335/149441163-7728a543-5dbd-4fb6-b12f-cae5fc79c6fe.png)
 
+- 데이터의 구조는 3가지 columns으로 이루어져 있으며 독립변수는 conversation, 종속변수는 class로 사용합니다.
+- conversation은 \n를 기준으로 대화를 주고 받으며 평균적으로 5~15번 정도 대화를 주고 받습니다.
+
 ## 프로젝트 진행 과정
 ![image](https://user-images.githubusercontent.com/51338268/150277973-96b1e4b7-d235-420e-b559-7fee01e9dacf.png)
 
