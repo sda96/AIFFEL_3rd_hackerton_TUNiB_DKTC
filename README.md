@@ -11,6 +11,13 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 - [감성 대화 말뭉치](https://aihub.or.kr/aidata/7978)
 - [한국어 SNS](https://aihub.or.kr/aidata/30718)
 
+## 과제에 사용되는 도구
+- 프로그래밍 언어 : 파이썬 3.x
+- 프로젝트 작업환경 : GCP, Google Colab(TPU)
+- 프로젝트 회의록, 참고사이트 아카이브 : Notion, Github
+- 활용된 패키지 : 텐서플로우 2.x, Huggingface, transformer-interpreter
+
+## 데이터 클래스 분포
 |클래스|Class No.|# Training|# Test |
 |:----:|:------:|:------:|:------------:|
 |협박 |00| 896    | 100   |
@@ -25,17 +32,10 @@ AIFFEL 3차 해커톤 TUNiB 기업과제 데이터셋 DKTC으로 DKTC(Dataset of
 ## 프로젝트 진행 과정
 ![image](https://user-images.githubusercontent.com/51338268/150277973-96b1e4b7-d235-420e-b559-7fee01e9dacf.png)
 
-## 과제에 사용되는 도구
-- 화상 회의 플랫폼 : 구글미트
-- 프로젝트 협업툴 : Github
-- 프로젝트 회의록, 참고사이트 아카이브 : Notion
-- 프로그래밍 언어 : 파이썬 3.x
-- 딥러닝 프레임워크 : 텐서플로우 2.x, Huggingface
-
 ## 프로젝트 진행 과정 리더보드
 |시도한 방법|F1-score|
 |:-|:-:|
-|일반 대화 : 한국어 대화 데이터 4000개 </br> 모델 : Soft voting 앙상블(klue/bert-base, skt/kogpt2, LSTM) </br> epoch : 1|0.673|
+|일반 대화 : 무작위 한국어 대화 데이터 4000개 </br> 모델 : Soft voting 앙상블(klue/bert-base, skt/kogpt2, LSTM) </br> epoch : 1|0.673|
 |일반 대화 : 무작위 SNS 데이터 4000개 + 한국어 대화 데이터 4000개 </br> 모델 : klue/bert-base(단일 모델) </br> epoch : 1|0.821|
 |일반 대화 : 무작위 SNS 데이터 4000개 + 한국어 대화 데이터 4000개 </br> 모델 : klue/bert-base(단일 모델) </br> epoch : 3 </br> lr_scheduler : 0.5|0.829|
 |일반대화 : 무작위 SNS 5000개, 한국어 대화 5000개, 감성 말뭉치 5000개, 오분류 SNS데이터 350개 </br> 모델 : klue/bert-base(단일 모델) </br> epoch : 5 </br> lr_schduler : 0.2|0.865|
